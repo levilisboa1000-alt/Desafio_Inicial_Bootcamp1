@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Portfólio — Levi Lisboa Alves</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-grid">
+      <div class="brand">
+        <h1>Levi Lisboa Alves</h1>
+        <p class="tagline">Estudante de Engenharia de Software · Criador de soluções criativas</p>
+      </div>
+      <nav class="contact">
+        <p>Brasília - DF</p>
+        <p><a href="mailto:levilisboa1000@gmail.com">levilisboa1000@gmail.com</a></p>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="intro card">
+      <div class="intro-text">
+        <h2>Olá</h2>
+        <p>Eu me chamo <strong>Levi Lisboa Alves</strong>. Estudante de Engenharia de Software, interessado em tecnologia e desenvolvimento de soluções criativas. Este portfólio reúne meus principais projetos e aprendizados ao longo da minha formação.</p>
+      </div>
+      <div class="intro-image">
+        <!-- Substitua pela sua foto -->
+        <div class="photo-placeholder">Sua foto</div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h3>Formação</h3>
+      <p><strong>Graduação:</strong> Engenharia de Software</p>
+    </section>
+
+    <section class="card project">
+      <h3>Projetos e Experiências</h3>
+      <div class="project-item">
+        <h4>2024 — Marketing Publicitário Eleitoral</h4>
+        <ul>
+          <li>Criação de identidade visual para redes sociais</li>
+          <li>Roteiros para publicidade electoral</li>
+          <li>Criação de vídeos e flyers digitais/animados</li>
+        </ul>
+      </div>
+
+      <div class="project-item">
+        <h4>2023–2024 — Atendimento ao Público e Vendas</h4>
+        <ul>
+          <li>Marketing publicitário no varejo</li>
+          <li>Criação de materiais digitais para redes sociais</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="card skills">
+      <h3>O que me move</h3>
+      <p>Sou movido pela vontade de aprender, criar e transformar ideias em soluções reais. Tenho interesse em tecnologia, programação e produção de conteúdo — unindo lógica e criatividade.</p>
+
+      <h4>Softwares / Ferramentas</h4>
+      <p>Design gráfico, edição de vídeo, ferramentas de produtividade.</p>
+
+      <h4>Soft skills</h4>
+      <ul>
+        <li>Comunicação — clareza na troca de ideias</li>
+        <li>Trabalho em equipe — colaboração e bom relacionamento</li>
+        <li>Organização — gestão de tarefas e prazos</li>
+        <li>Aprendizado contínuo</li>
+      </ul>
+    </section>
+
+    <section class="card contact-card">
+      <h3>Contato</h3>
+      <p>Quer conversar sobre um projeto ou precisa de ajuda com front-end? Me manda um email: <a href="mailto:levilisboa1000@gmail.com">levilisboa1000@gmail.com</a></p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Portfólio — Levi Lisboa Alves · Criado com carinho 💜</p>
+    </div>
+  </footer>
+</body>
+</html>
